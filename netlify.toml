@@ -1,3 +1,4 @@
-[build]
-  base = "."
-  publish = "."
+[[redirects]]
+  from = "/*"
+  to = "/Wanted - Portfolio_Personal Template.html"
+  status = 200
